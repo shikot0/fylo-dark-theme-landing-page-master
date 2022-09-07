@@ -481,7 +481,7 @@ footer {
         width: 100%;  
     } 
     #productivity-section {
-        margin: 15% 0 10%; 
+        margin: 16% 0 16%; 
         flex-direction: column;
         margin: 0 0 10%; 
     }
@@ -502,7 +502,7 @@ footer {
         height: auto;     
         background-position: top 0 left 60px;  
         gap: 25px;  
-        margin: 0 0 10% 0;   
+        margin: 0 0 10% 0;    
         padding: 6% 10% 0;
     } 
     .testimonial {
