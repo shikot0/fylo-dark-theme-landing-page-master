@@ -11,9 +11,9 @@ p, a, button {
     font-family: 'Open Sans';
     font-weight: 300; 
 }
-/* html {
+html {
     scroll-behavior: smooth;  
-} */ 
+}
 body { 
     margin: 0; 
 }  
